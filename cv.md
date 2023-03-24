@@ -2,7 +2,7 @@
 # Ernest Yushkiavichus
 
 ## Contacts
-* **Location:** Minsk, Belaru
+* **Location:** Minsk, Belarus
 * **Phone:** 375 29 902 40 42
 * **Email:** ernest.bel@mail.ru
 * **Github:** https://github.com/kiberturistik
